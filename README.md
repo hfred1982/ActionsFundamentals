@@ -69,4 +69,5 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 Add comment to trigger workflow.
+Add comment to avoid trigger workflow : [skip ci]
 
